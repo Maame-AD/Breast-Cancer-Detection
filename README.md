@@ -66,9 +66,4 @@ The core of the project leverages **YOLOv9**, a state-of-the-art object detectio
 
 ---
 
-## 📫 Connect with Me
-
-- **LinkedIn:** https://www.linkedin.com/in/maame-ad/  
-- **Email:** madutwumwaah@gmail.com
-
 *This research merges the power of deep learning with healthcare, aiming to enhance diagnostic accuracy and support radiologists in the fight against breast cancer.*
